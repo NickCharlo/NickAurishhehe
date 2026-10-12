@@ -1,0 +1,1 @@
+Static GitHub Pages conversion from the supplied Grok project. Upload all files and folders to the repository root. runtime.js and components.js are necessary for preserving original React interactions. Missing original audio files remain unconfigured.
